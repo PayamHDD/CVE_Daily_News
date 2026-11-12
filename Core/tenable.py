@@ -4,8 +4,8 @@ import aiohttp
 import logging
 from bs4 import BeautifulSoup as bs
 
-logger = logging.getLogger("TeleBot.Tenable")
 class Version:
+    # Return "Tenable Security Center" componenet's version
     pass
 
 class CVE:
