@@ -10,9 +10,6 @@ from Core.tenable import *
 
 #Constants
 BOT_TOKEN = "8881692757:AAGliJaO1JLibukz_kuNtoVjND_IsRMejTg"
-LISTEN_HOST = "127.0.0.1"
-LISTEN_PORT = 9999
-CHAT_ID = "255586135"
 
 #Logger
 logger = logging.getLogger("TeleBot")
